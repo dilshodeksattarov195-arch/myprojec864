@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdetch",
+        "uuid": 1973376,
+        "checksum": "qot8m2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
